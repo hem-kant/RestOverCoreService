@@ -1,0 +1,9 @@
+C:\Projects\Tridion\Sapient.AMP.References\TOR.DataContract.dll
+C:\Projects\Tridion\Sapient.AMP.References\TOR.DataContract.pdb
+C:\Projects\Tridion\TOR\TOMOverREST\DataContract\obj\Debug\TOR.DataContract.dll
+C:\Projects\Tridion\TOR\TOMOverREST\DataContract\obj\Debug\TOR.DataContract.pdb
+C:\Projects\Tridion\TOR\TOMOverREST\DataContract\obj\Debug\TOR.DataContract.csprojResolveAssemblyReference.cache
+D:\Production Project\TOR\Sapient.AMP.References\TOR.DataContract.dll
+D:\Production Project\TOR\Sapient.AMP.References\TOR.DataContract.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\DataContract\obj\Debug\TOR.DataContract.dll
+D:\Production Project\TOR\TOR\TOMOverREST\DataContract\obj\Debug\TOR.DataContract.pdb

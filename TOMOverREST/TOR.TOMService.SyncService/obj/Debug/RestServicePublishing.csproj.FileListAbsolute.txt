@@ -1,0 +1,14 @@
+D:\RESTSAMPLE\RestServicePublishing\RestServicePublishing\obj\Debug\ResolveAssemblyReference.cache
+D:\RESTSAMPLE\RestServicePublishing\RestServicePublishing\bin\RestServicePublishing.dll
+D:\RESTSAMPLE\RestServicePublishing\RestServicePublishing\bin\RestServicePublishing.pdb
+D:\RESTSAMPLE\RestServicePublishing\RestServicePublishing\bin\Microsoft.Http.dll
+D:\RESTSAMPLE\RestServicePublishing\RestServicePublishing\bin\Microsoft.Http.Extensions.dll
+D:\RESTSAMPLE\RestServicePublishing\RestServicePublishing\obj\Debug\RestServicePublishing.dll
+D:\RESTSAMPLE\RestServicePublishing\RestServicePublishing\obj\Debug\RestServicePublishing.pdb
+D:\RESTSAMPLE\RestServicePublishing\RestServicePublishing\bin\Utilityclasses.dll
+D:\RESTSAMPLE\RestServicePublishing\RestServicePublishing\bin\Utilityclasses.pdb
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\RestServicePublishing\obj\Debug\RestServicePublishing.csprojResolveAssemblyReference.cache
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\RestServicePublishing\obj\Debug\RestServicePublishing.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\RestServicePublishing\obj\Debug\RestServicePublishing.pdb
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\RestServicePublishing\bin\RestServicePublishing.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\RestServicePublishing\bin\RestServicePublishing.pdb

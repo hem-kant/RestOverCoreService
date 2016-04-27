@@ -1,0 +1,10 @@
+C:\Projects\Tridion\Sapient.AMP.References\2009\TOR.DataHelper.dll
+C:\Projects\Tridion\Sapient.AMP.References\2009\TOR.DataHelper.pdb
+C:\Projects\Tridion\TOR\TOMOverREST\DataHelper\obj\Debug\TOR.DataHelper.csprojResolveAssemblyReference.cache
+C:\Projects\Tridion\TOR\TOMOverREST\DataHelper\obj\Debug\TOR.DataHelper.dll
+C:\Projects\Tridion\TOR\TOMOverREST\DataHelper\obj\Debug\TOR.DataHelper.pdb
+D:\Production Project\TOR\Sapient.AMP.References\2009\TOR.DataHelper.dll
+D:\Production Project\TOR\Sapient.AMP.References\2009\TOR.DataHelper.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\DataHelper\obj\Debug\TOR.DataHelper.csprojResolveAssemblyReference.cache
+D:\Production Project\TOR\TOR\TOMOverREST\DataHelper\obj\Debug\TOR.DataHelper.dll
+D:\Production Project\TOR\TOR\TOMOverREST\DataHelper\obj\Debug\TOR.DataHelper.pdb

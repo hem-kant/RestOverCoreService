@@ -1,0 +1,24 @@
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\bin\RestServicePublishing.dll
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\bin\RestServicePublishing.pdb
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\bin\Blackboard.SyncService.BAL.dll
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\bin\Tridion.ContentManager.CoreService.Client.dll
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\bin\Blackboard.SyncService.BAL.pdb
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\obj\Debug\Blackboard.PartnershipSyncService.csprojResolveAssemblyReference.cache
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\obj\Debug\RestServicePublishing.dll
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\obj\Debug\RestServicePublishing.pdb
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\bin\RestServicePublishing.dll
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\bin\RestServicePublishing.pdb
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\bin\Blackboard.SyncService.BAL.dll
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\bin\Tridion.ContentManager.CoreService.Client.dll
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\bin\Blackboard.SyncService.BAL.pdb
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\obj\Debug\Blackboard.PartnershipSyncService.csprojResolveAssemblyReference.cache
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\obj\Debug\RestServicePublishing.dll
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService\obj\Debug\RestServicePublishing.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\RestServicePublishing.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\RestServicePublishing.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\Blackboard.SyncService.BAL.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\Tridion.ContentManager.CoreService.Client.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\Blackboard.SyncService.BAL.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\obj\Debug\Blackboard.PartnershipSyncService.csprojResolveAssemblyReference.cache
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\obj\Debug\RestServicePublishing.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\obj\Debug\RestServicePublishing.pdb

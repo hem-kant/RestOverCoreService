@@ -1,0 +1,265 @@
+2015-10-09 12:25:08,903 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:25:20,315 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:25:25,215 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Initialization of the extension 'D:\apps\sdl\cm\bin\TCMExtensions.EventSystem.WorkflowAutomation.dll' failed.
+The type initializer for 'Tridion.Extensions.EventSystem.WorkflowAutomation' threw an exception.
+Could not load file or assembly 'log4net, Version=1.2.12.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a' or one of its dependencies. The system cannot find the file specified.
+2015-10-09 12:25:25,215 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:25:37,465 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:25:45,080 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:25:59,672 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:26:39,463 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:26:42,781 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:27:06,038 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:27:13,329 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:27:19,739 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:27:42,649 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:28:08,239 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:28:09,190 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPublicationList method
+2015-10-09 12:28:10,324 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:28:28,022 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:28:31,183 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPublicationList method
+2015-10-09 12:28:41,540 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:29:11,743 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:29:14,478 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:29:31,180 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:29:39,302 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:29:41,403 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:29:42,015 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:32:24,720 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:32:28,702 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:32:40,853 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:32:44,895 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:32:50,115 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:33:10,433 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:33:10,961 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:33:38,667 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:33:44,363 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:34:03,208 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:34:32,621 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:34:35,272 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 12:34:38,223 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 12:40:20,378 [13] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:40:20,580 [13] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-10-09 12:40:46,616 [13] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:40:59,464 [13] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-10-09 12:41:18,505 [13] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:41:18,512 [13] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-10-09 12:41:21,068 [18] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 12:41:21,069 [18] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-10-09 15:59:16,878 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 15:59:25,329 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 15:59:41,400 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:00:20,066 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:00:23,018 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPublicationList method
+2015-10-09 16:00:26,672 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:00:41,546 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:00:50,643 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:01:48,349 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:01:56,040 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Unexpected item type: Component.
+2015-10-09 16:01:56,040 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:06:29,937 [18] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:06:33,977 [18] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:06:42,123 [18] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Unexpected item type: Component.
+2015-10-09 16:06:48,330 [18] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:07:10,584 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:07:24,930 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:07:29,763 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Unexpected item type: Component.
+2015-10-09 16:07:29,763 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:08:08,736 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:08:14,276 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:08:28,732 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:08:36,773 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:10:00,473 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:10:06,070 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:10:14,502 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:10:38,439 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:10:41,231 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:11:05,190 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:11:39,761 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:11:41,769 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:12:06,479 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:13:39,330 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:13:44,908 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:13:52,993 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:14:25,809 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:14:31,500 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:14:36,988 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:15:14,793 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:15:19,868 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:15:20,677 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:15:25,340 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:15:26,315 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:15:26,976 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: 21-19088.
+2015-10-09 16:15:26,977 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:15:31,892 [19] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:15:35,277 [19] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:15:47,558 [19] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-10-09 16:15:48,243 [19] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:23:50,511 [23] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:23:56,365 [23] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:24:04,033 [23] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: 6-443-8.
+2015-10-09 16:24:04,033 [23] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:25:12,846 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:25:19,030 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:25:31,518 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:30:50,119 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:30:57,819 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:31:02,474 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:31:09,359 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:31:23,052 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:31:46,745 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:32:11,317 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:32:14,397 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:32:41,311 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:32:47,038 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:33:00,182 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:37:47,516 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:37:54,594 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:38:38,718 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:38:55,675 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:38:58,547 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:39:22,132 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:39:40,539 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:39:42,473 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:39:43,215 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:39:46,273 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:39:49,254 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:40:08,343 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:40:33,244 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:40:38,576 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:41:40,084 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:41:45,639 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 16:41:55,136 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:43:22,015 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:43:34,364 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:43:42,427 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:43:54,877 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:43:57,356 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:44:06,896 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: 0-21-1.
+2015-10-09 16:44:06,896 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:44:25,362 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:44:27,828 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:45:12,630 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:45:17,927 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:45:47,206 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:51:29,701 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:51:39,203 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:51:52,532 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:52:13,619 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:52:22,005 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:52:56,757 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:54:05,476 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:54:10,455 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:54:15,166 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:54:19,218 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:54:21,664 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:54:26,622 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:54:37,265 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:54:38,198 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:54:39,758 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:54:44,258 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:54:45,198 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:54:46,758 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:54:52,204 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:54:53,736 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:54:55,301 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:55:11,403 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:55:12,344 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageTempletByPubID method
+2015-10-09 16:55:13,939 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:58:04,288 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 16:58:13,284 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetStructureGroupByPubID method
+2015-10-09 16:58:34,012 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 16:59:58,441 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 17:00:00,351 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetStructureGroupByPubID method
+2015-10-09 17:00:00,968 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: 0-21-1.
+2015-10-09 17:00:00,968 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:15:13,218 [37] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:15:18,618 [37] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 18:15:31,005 [37] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:17:00,418 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:17:05,750 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 18:17:11,452 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:17:54,005 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:17:56,619 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 18:18:06,785 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:24:11,243 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:24:18,751 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 18:24:30,607 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: tcm:-21-163-512
+Invalid URI: tcm:-21-163-512
+2015-10-09 18:24:30,607 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:24:41,044 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:24:43,544 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 18:24:49,621 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: tcm:-21-163-512
+Invalid URI: tcm:-21-163-512
+2015-10-09 18:24:49,621 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:25:12,434 [32] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:25:17,432 [32] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 18:26:08,511 [32] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:31:45,508 [36] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:32:20,221 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:32:28,848 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 18:32:37,847 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:34:27,241 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:34:33,932 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 18:34:39,979 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:35:13,026 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:35:15,772 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-10-09 18:35:16,500 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:43:59,735 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:45:04,425 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - The caller was not authenticated by the service.
+2015-10-09 18:45:04,426 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:45:22,131 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:45:26,963 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 18:45:27,689 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:48:29,025 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetUserList WCF RestService
+2015-10-09 18:48:33,532 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 18:48:34,304 [16] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetUserList
+2015-10-09 18:51:26,243 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:51:35,480 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetComponentTemplateByPubID method
+2015-10-09 18:51:47,199 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:54:23,221 [20] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:54:31,098 [20] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetComponentTemplateByPubID method
+2015-10-09 18:54:32,246 [20] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: 0-21-1.
+2015-10-09 18:54:32,246 [20] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:55:09,138 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:55:13,498 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetComponentTemplateByPubID method
+2015-10-09 18:55:17,755 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:55:22,013 [20] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:55:24,105 [20] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetComponentTemplateByPubID method
+2015-10-09 18:55:27,910 [20] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 18:55:54,233 [20] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 18:55:55,267 [20] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetComponentTemplateByPubID method
+2015-10-09 18:55:57,899 [20] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 19:00:03,340 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 19:00:07,797 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-10-09 19:00:08,456 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: 0-21-1.
+2015-10-09 19:00:08,456 [15] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 19:01:12,765 [29] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 19:01:16,632 [29] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-10-09 19:01:17,290 [29] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: 0-21-1.
+2015-10-09 19:01:17,290 [29] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 19:01:23,780 [29] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 19:01:28,236 [29] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-10-09 19:01:35,150 [29] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: 0-21-1.
+2015-10-09 19:01:35,150 [29] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 19:01:47,590 [5] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-10-09 19:01:53,014 [5] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-10-09 19:01:54,761 [5] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-10-09 19:02:08,724 [5] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetUserList WCF RestService
+2015-10-09 19:02:11,760 [5] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 19:02:47,393 [5] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Unexpected item type: Publication.
+2015-10-09 19:02:47,393 [5] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetUserList
+2015-10-09 19:03:16,649 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetUserList WCF RestService
+2015-10-09 19:03:24,379 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 19:06:33,720 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Unexpected item type: Publication.
+2015-10-09 19:06:33,720 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetUserList
+2015-10-09 19:08:07,589 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetUserList WCF RestService
+2015-10-09 19:08:11,689 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 19:08:37,161 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Unexpected item type: Publication.
+2015-10-09 19:08:37,162 [26] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetUserList
+2015-10-09 19:11:05,802 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetUserList WCF RestService
+2015-10-09 19:11:12,571 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 19:11:17,858 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetUserList
+2015-10-09 19:11:23,262 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetUserList WCF RestService
+2015-10-09 19:11:26,358 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-10-09 19:12:25,940 [21] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetUserList

@@ -1,0 +1,10 @@
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\RestServicePublishing.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\RestServicePublishing.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\Blackboard.SyncService.BAL.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\Tridion.ContentManager.CoreService.Client.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\Blackboard.SyncService.BAL.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\obj\Debug\Tom.OverRestService.csprojResolveAssemblyReference.cache
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\obj\Debug\RestServicePublishing.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\obj\Debug\RestServicePublishing.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\Newtonsoft.Json.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService\bin\Newtonsoft.Json.xml

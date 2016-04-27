@@ -1,0 +1,5 @@
+D:\Production Project\TOR\TOR\TOMOverREST\TOM.CoreServiceClient\bin\Debug\TOM.CoreServiceClient.dll
+D:\Production Project\TOR\TOR\TOMOverREST\TOM.CoreServiceClient\bin\Debug\TOM.CoreServiceClient.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\TOM.CoreServiceClient\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Production Project\TOR\TOR\TOMOverREST\TOM.CoreServiceClient\obj\Debug\TOM.CoreServiceClient.dll
+D:\Production Project\TOR\TOR\TOMOverREST\TOM.CoreServiceClient\obj\Debug\TOM.CoreServiceClient.pdb

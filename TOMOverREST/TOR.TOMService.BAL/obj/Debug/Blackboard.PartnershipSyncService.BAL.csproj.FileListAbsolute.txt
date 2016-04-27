@@ -1,0 +1,24 @@
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll.config
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.pdb
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\bin\Debug\log4net.dll
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.dll
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.pdb
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\obj\Debug\Blackboard.PartnershipSyncService.BAL.csprojResolveAssemblyReference.cache
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll.config
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.pdb
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\bin\Debug\log4net.dll
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.dll
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.pdb
+D:\BB.GitCode\www-tridion\BlackBoard.SS4T\SS4T\SS4T\PartnershipService\Partnership.SyncService.BAL\obj\Debug\Blackboard.PartnershipSyncService.BAL.csprojResolveAssemblyReference.cache
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll.config
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService.BAL\bin\Debug\log4net.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService.BAL\bin\Debug\Newtonsoft.Json.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService.BAL\bin\Debug\Newtonsoft.Json.xml
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.pdb
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService.BAL\bin\Debug\New.Instance.dll
+D:\Production Project\TOR\TOR\TOMOverREST\Partnership.SyncService.BAL\obj\Debug\Blackboard.PartnershipSyncService.BAL.csprojResolveAssemblyReference.cache

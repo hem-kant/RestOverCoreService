@@ -1,0 +1,107 @@
+2015-09-25 15:51:58,524 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling PartnershipSyncService WCF RestService
+2015-09-25 15:52:16,202 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in Process method
+2015-09-25 15:52:16,740 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed PartnershipSyncService
+2015-09-25 15:53:40,130 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling PartnershipSyncService WCF RestService
+2015-09-25 15:53:58,195 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetComponentbyTcmUri method
+2015-09-25 15:53:58,196 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetComponentbyTcmUri : 
+2015-09-25 15:53:59,117 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed PartnershipSyncService
+2015-09-25 15:56:19,424 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling PartnershipSyncService WCF RestService
+2015-09-25 15:56:38,290 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetComponentbyTcmUri method
+2015-09-25 15:56:38,291 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetComponentbyTcmUri : 
+2015-09-25 15:56:39,126 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - GetComponentbyTcmUri : Invalid URI: 21-16021.
+2015-09-25 15:56:39,135 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Object reference not set to an instance of an object.
+2015-09-25 15:56:39,135 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed PartnershipSyncService
+2015-09-25 15:56:39,228 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Data at the root level is invalid. Line 1, position 1.Error While Calling PartnershipSyncService
+2015-09-25 15:56:59,634 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling PartnershipSyncService WCF RestService
+2015-09-25 15:57:02,599 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetComponentbyTcmUri method
+2015-09-25 15:57:02,600 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetComponentbyTcmUri : 
+2015-09-25 15:57:03,210 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed PartnershipSyncService
+2015-09-25 16:02:41,062 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 16:03:00,270 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetComponentbyTcmUri method
+2015-09-25 16:03:00,377 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetComponentbyTcmUri : 
+2015-09-25 16:03:01,268 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 16:03:24,039 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 16:03:26,764 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetComponentbyTcmUri method
+2015-09-25 16:03:26,765 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetComponentbyTcmUri : 
+2015-09-25 16:03:27,602 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 16:35:22,505 [6] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 16:35:44,011 [6] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 16:35:54,587 [6] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 16:40:27,738 [6] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 16:40:27,740 [6] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Data at the root level is invalid. Line 1, position 1.Error While Calling GetComponentByTcmUri
+2015-09-25 16:41:18,705 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 16:41:39,557 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 16:41:41,044 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 16:42:04,048 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 16:43:24,401 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 16:43:24,402 [15] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Data at the root level is invalid. Line 1, position 1.Error While Calling GetComponentByTcmUri
+2015-09-25 16:53:43,701 [14] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 16:54:06,323 [14] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 16:54:09,043 [14] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 16:54:52,623 [14] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 16:54:52,650 [14] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Data at the root level is invalid. Line 1, position 1.Error While Calling GetComponentByTcmUri
+2015-09-25 17:18:34,386 [45] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:26:29,368 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:26:47,803 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:26:50,139 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:27:22,688 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 17:27:22,694 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Data at the root level is invalid. Line 1, position 1.Error While Calling GetComponentByTcmUri
+2015-09-25 17:29:57,091 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:30:14,723 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:30:14,724 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:30:15,809 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - GetSchemabyTcmUri : Invalid URI: 0-21-1.
+2015-09-25 17:30:15,903 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 17:30:15,984 [16] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Data at the root level is invalid. Line 1, position 1.Error While Calling GetComponentByTcmUri
+2015-09-25 17:30:22,822 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:30:24,755 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:30:33,164 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:31:08,523 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 17:31:08,544 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Data at the root level is invalid. Line 1, position 1.Error While Calling GetComponentByTcmUri
+2015-09-25 17:31:16,574 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:31:32,892 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:31:42,414 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:31:51,397 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 17:32:03,582 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Data at the root level is invalid. Line 1, position 1.Error While Calling GetComponentByTcmUri
+2015-09-25 17:33:29,053 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:33:46,902 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:33:55,642 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:34:01,082 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 17:45:25,336 [33] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:45:43,495 [33] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:45:59,140 [33] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:46:20,472 [33] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - GetSchemabyTcmUri : The Filter condition 'RootCategories[0]' is invalid. Unexpected item type: Publication. Expecting: Category.
+2015-09-25 17:46:20,529 [33] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 17:47:31,798 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:47:48,558 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:48:00,928 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:49:55,922 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 17:52:55,027 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:52:55,027 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:53:02,121 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:53:15,483 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:53:15,484 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:53:15,505 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:53:15,505 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:53:15,968 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - GetSchemabyTcmUri : Invalid URI: 21-163-512.
+2015-09-25 17:53:15,977 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - GetSchemabyTcmUri : Invalid URI: 21-163-512.
+2015-09-25 17:53:15,993 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 17:53:16,028 [19] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 17:53:18,750 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:53:18,750 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:53:19,523 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - GetSchemabyTcmUri : Invalid URI: 21-163-512.
+2015-09-25 17:53:19,524 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 17:54:16,471 [10] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 17:54:37,103 [10] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 17:54:39,230 [10] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 17:55:38,621 [10] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 18:01:24,227 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 18:01:42,190 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 18:01:44,103 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering GetSchemabyTcmUri : 
+2015-09-25 18:03:27,441 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 18:07:08,766 [26] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 18:07:40,403 [26] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 18:08:29,602 [26] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-25 18:12:06,411 [30] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-25 18:12:27,853 [30] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 18:12:46,159 [30] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-25 18:13:18,303 [30] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri

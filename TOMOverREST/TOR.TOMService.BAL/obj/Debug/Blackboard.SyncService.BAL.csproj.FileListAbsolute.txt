@@ -1,0 +1,93 @@
+D:\Projects\BlackBoard\BlackBaoard create components using CoreService\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll
+D:\Projects\BlackBoard\BlackBaoard create components using CoreService\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.pdb
+D:\Projects\BlackBoard\BlackBaoard create components using CoreService\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Projects\BlackBoard\BlackBaoard create components using CoreService\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.dll
+D:\Projects\BlackBoard\BlackBaoard create components using CoreService\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.pdb
+D:\Projects\BlackBoard\BlackBaoard create components using CoreService\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll.config
+D:\Projects\BlackBoard\BlackBaoard create components using CoreService\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.csprojResolveAssemblyReference.cache
+D:\Projects\BlackBoard\BlackBaoard create components using CoreService\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\BlackBoard\BlackBaoard create components using CoreService\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll.config
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.pdb
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.pdb
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\AutoMapper.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.csprojResolveAssemblyReference.cache
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.Common.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Common.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Extensions.Templating.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Publishing.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Queuing.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.TemplateTypes.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Templating.dll
+D:\Project\Tahzoo\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.Logging.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll.config
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.pdb
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\AutoMapper.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Newtonsoft.Json.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.Common.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Common.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Extensions.Templating.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Publishing.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Queuing.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.TemplateTypes.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Templating.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.Logging.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Newtonsoft.Json.xml
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.pdb
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\log4net.dll
+D:\Production Project\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.csprojResolveAssemblyReference.cache
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll.config
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.pdb
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\AutoMapper.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\log4net.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.Common.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Common.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Extensions.Templating.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Publishing.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Queuing.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.TemplateTypes.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Templating.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.Logging.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.dll
+C:\Users\hem.kant\Desktop\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.pdb
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll.config
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.pdb
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\AutoMapper.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\log4net.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Newtonsoft.Json.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.Common.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Common.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Extensions.Templating.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Publishing.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Queuing.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.TemplateTypes.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Tridion.ContentManager.Templating.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\bin\Debug\Newtonsoft.Json.xml
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.dll
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.pdb
+D:\partnerExt\latest\GenericIndexing(2)\GenericIndexing\Blackboard.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.csprojResolveAssemblyReference.cache
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnerExtensionSync\Extension.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll.config
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnerExtensionSync\Extension.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.dll
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnerExtensionSync\Extension.SyncService.BAL\bin\Debug\Blackboard.SyncService.BAL.pdb
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnerExtensionSync\Extension.SyncService.BAL\bin\Debug\log4net.dll
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnerExtensionSync\Extension.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.dll
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnerExtensionSync\Extension.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.pdb
+D:\BlackBoard.Tridion\trunk\BlackBoard.SS4T\SS4T\SS4T\PartnerExtensionSync\Extension.SyncService.BAL\obj\Debug\Blackboard.SyncService.BAL.csprojResolveAssemblyReference.cache

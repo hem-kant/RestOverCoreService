@@ -1,0 +1,177 @@
+2015-09-28 18:26:05,845 [9] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:26:33,659 [9] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-28 18:26:38,173 [9] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Initialization of the extension 'D:\apps\sdl\cm\bin\TCMExtensions.EventSystem.WorkflowAutomation.dll' failed.
+The type initializer for 'Tridion.Extensions.EventSystem.WorkflowAutomation' threw an exception.
+Could not load file or assembly 'log4net, Version=1.2.12.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a' or one of its dependencies. The system cannot find the file specified.
+2015-09-28 18:26:50,390 [9] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-28 18:27:27,915 [9] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:31:09,867 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:31:27,572 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-09-28 18:31:28,443 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Invalid URI: 0-21-1.
+2015-09-28 18:31:28,444 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:31:39,343 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:31:46,112 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-09-28 18:31:48,215 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:35:22,745 [18] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:35:50,787 [18] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-09-28 18:36:04,604 [18] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:36:15,577 [18] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:36:26,882 [18] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-09-28 18:36:28,260 [18] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:43:51,938 [24] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:44:51,880 [24] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetPublicationList method
+2015-09-28 18:45:01,335 [24] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:45:09,131 [24] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:45:28,001 [24] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetPublicationList method
+2015-09-28 18:46:20,286 [24] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:46:55,167 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:47:14,085 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetPublicationList method
+2015-09-28 18:47:19,100 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:47:24,659 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:47:28,501 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetPublicationList method
+2015-09-28 18:47:50,049 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:48:06,044 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:48:26,263 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetPublicationList method
+2015-09-28 18:48:46,854 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:52:03,286 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:52:21,413 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 18:52:39,761 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:54:52,751 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:55:10,260 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 18:55:11,502 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - There was an error generating the XML document.
+2015-09-28 18:55:11,503 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:55:23,971 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:55:25,573 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 18:58:23,406 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - There was an error generating the XML document.
+2015-09-28 18:58:23,406 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 18:59:12,620 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 18:59:30,471 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 19:00:09,865 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - XmlNodeConverter can only convert JSON that begins with an object.
+2015-09-28 19:00:09,866 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 19:00:35,264 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:00:57,515 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 19:01:08,195 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - XmlNodeConverter can only convert JSON that begins with an object.
+2015-09-28 19:01:08,195 [11] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 19:01:42,685 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:02:01,645 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 19:02:43,479 [17] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 19:03:38,953 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:03:58,239 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 19:04:05,023 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 19:04:13,935 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:04:18,879 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 19:04:20,911 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 19:14:40,148 [6] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:15:00,728 [6] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 19:15:03,022 [6] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 19:23:01,599 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:23:01,649 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:23:09,790 [18] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:23:09,800 [18] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:23:22,498 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:23:22,526 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:23:35,929 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:23:35,931 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:23:58,989 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:23:59,011 [5] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:24:34,519 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:24:34,606 [12] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:25:52,470 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:25:52,556 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:26:46,633 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:26:46,658 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:27:50,802 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:28:08,341 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 19:28:09,253 [13] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 19:29:51,256 [9] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:29:51,285 [9] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)Error While Calling GetComponentByTcmUri
+2015-09-28 19:30:35,954 [9] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:30:53,804 [9] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 19:30:54,612 [9] ERROR Blackboard.PartnershipSyncService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 19:46:14,704 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:46:14,790 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:47:23,733 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:47:23,816 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:47:43,408 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:47:54,750 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:48:11,219 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:48:16,444 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:52:34,227 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:52:42,577 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:53:53,316 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:54:17,521 [17] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Could not load file or assembly 'Tridion.ContentManager.CoreService.Client, Version=6.1.0.996, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b' or one of its dependencies. The system cannot find the file specified.Error While Calling GetComponentByTcmUri
+2015-09-28 19:55:50,838 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 19:56:13,601 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 19:56:14,085 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:07:58,561 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:08:18,697 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-09-28 20:08:42,010 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-09-28 20:08:52,748 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Unexpected item type: Component.
+2015-09-28 20:08:52,749 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:09:55,654 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:10:26,377 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:10:51,861 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getComponentByTcm method
+2015-09-28 20:11:21,432 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Unexpected item type: Component.
+2015-09-28 20:11:21,432 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:13:51,576 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:14:16,519 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-28 20:14:28,711 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:14:36,690 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:14:47,040 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-28 20:15:09,073 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-28 20:15:17,214 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:15:28,614 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:15:47,482 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-28 20:15:58,414 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Invalid URI: 6-443-8.
+2015-09-28 20:15:58,415 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:16:02,621 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:16:11,571 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in getSchemaByTcm method
+2015-09-28 20:16:25,496 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Unexpected item type: Schema.
+2015-09-28 20:16:25,497 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:17:01,139 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:17:19,204 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPublicationList method
+2015-09-28 20:17:26,367 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:17:45,589 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:17:49,485 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:17:55,774 [12] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:18:58,213 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:19:16,822 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:19:20,524 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:19:27,446 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:19:29,213 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:19:41,391 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:20:09,281 [14] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:20:59,775 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:22:15,195 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:22:26,642 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:22:34,170 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:22:51,577 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:22:52,027 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:25:32,669 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:25:52,654 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:26:02,198 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:26:09,943 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:26:13,824 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:26:25,134 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:26:31,279 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:26:35,176 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:27:09,743 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:28:06,590 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:28:25,723 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-09-28 20:28:40,947 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-09-28 20:28:48,491 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:28:54,287 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:29:04,675 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetPageByPubID method
+2015-09-28 20:29:50,247 [9] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:30:44,835 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:31:05,550 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:31:14,029 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:31:20,302 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:31:23,415 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:31:32,455 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:31:59,439 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:32:18,528 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:32:30,462 [10] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri
+2015-09-28 20:33:00,425 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Calling GetComponentByTcmUri WCF RestService
+2015-09-28 20:33:20,521 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] - Entering in GetUserList method
+2015-09-28 20:34:00,940 [11] ERROR TOR.TOMService.BAL.Utils.Logger [(null)] -  Successfully executed GetComponentByTcmUri

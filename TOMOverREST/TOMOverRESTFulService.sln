@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOR.DataContract", "DataContract\TOR.DataContract.csproj", "{9BE97406-C08F-462B-976E-F729139ADBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOR.DataHelper", "DataHelper\TOR.DataHelper.csproj", "{C3D693CD-D5D6-4343-B6F6-9A8DAE9881B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOM.CoreServiceClient", "TOM.CoreServiceClient\TOM.CoreServiceClient.csproj", "{A228572F-11A5-4D46-AAA1-6D6188C2E090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOR.OverRestService", "TOR.TOMService.SyncService\TOR.OverRestService.csproj", "{70C7B8CC-E071-4C32-B1CC-0086FF3F2DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOR.TOMService.BAL", "TOR.TOMService.BAL\TOR.TOMService.BAL.csproj", "{595D80F9-40A1-40FD-A4BF-CC8BD3DAA055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE97406-C08F-462B-976E-F729139ADBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE97406-C08F-462B-976E-F729139ADBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE97406-C08F-462B-976E-F729139ADBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE97406-C08F-462B-976E-F729139ADBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D693CD-D5D6-4343-B6F6-9A8DAE9881B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D693CD-D5D6-4343-B6F6-9A8DAE9881B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D693CD-D5D6-4343-B6F6-9A8DAE9881B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D693CD-D5D6-4343-B6F6-9A8DAE9881B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A228572F-11A5-4D46-AAA1-6D6188C2E090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A228572F-11A5-4D46-AAA1-6D6188C2E090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A228572F-11A5-4D46-AAA1-6D6188C2E090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A228572F-11A5-4D46-AAA1-6D6188C2E090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C7B8CC-E071-4C32-B1CC-0086FF3F2DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C7B8CC-E071-4C32-B1CC-0086FF3F2DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C7B8CC-E071-4C32-B1CC-0086FF3F2DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C7B8CC-E071-4C32-B1CC-0086FF3F2DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595D80F9-40A1-40FD-A4BF-CC8BD3DAA055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595D80F9-40A1-40FD-A4BF-CC8BD3DAA055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595D80F9-40A1-40FD-A4BF-CC8BD3DAA055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595D80F9-40A1-40FD-A4BF-CC8BD3DAA055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
